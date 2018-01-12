@@ -7,4 +7,9 @@ Variations
 * Circle chart
 * Bubble plot
 
-<img src="sparklines.png" style="width: 100px;">
+<img src="img/sparklines.png" style="width: 100px;">
+
+<br><br><br>
+
+<img src="img/sparkliness.png" style="width: 100px;">
+
